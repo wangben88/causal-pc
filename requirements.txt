@@ -1,0 +1,13 @@
+numpy
+jax
+jaxlib
+jupyter
+matplotlib
+tqdm
+pytest
+pytest-repeat
+infinite-sets
+bnlearn
+pandas
+pgmpy
+scikit-learn
